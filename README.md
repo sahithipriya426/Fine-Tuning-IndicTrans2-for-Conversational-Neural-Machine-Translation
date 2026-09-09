@@ -173,4 +173,6 @@ These results show a measurable improvement from the LoRA-adapted model on the e
 
 ## Repository
 
-**GitHub:** Add your repository URL here.
+**GitHub:** 
+https://github.com/sahithipriya426/IndicTrans2-LoRA
+
